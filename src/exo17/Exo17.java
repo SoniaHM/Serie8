@@ -12,7 +12,7 @@ public class Exo17 {
 		
 		List<Person> NewPerson= List.of(
 			new Person ("Kylian","Mbappe",22),
-			new Person ("José","Paummard",40));
+			new Person ("José","Paumard",40));
 		
 		
 		
