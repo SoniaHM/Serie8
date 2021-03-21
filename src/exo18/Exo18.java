@@ -17,7 +17,7 @@ public class Exo18 {
 		
 		List<Person> newPerson= List.of(
 				new Person ("Kylian","Mbappe",22),
-				new Person ("José","Paummard",40));
+				new Person ("José","Paumard",40));
 		
         String fileName = "files/newfile2.bin";
 
